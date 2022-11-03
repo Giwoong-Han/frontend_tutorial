@@ -1,4 +1,4 @@
-//
+// jsx식 표현식 : function() 중괄호 안에 JavaScript 표현식 사용가능
 
 function formatName(user) {
   return user.firstName + ' ' + user.lastName;
